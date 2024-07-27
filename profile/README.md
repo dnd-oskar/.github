@@ -1,8 +1,7 @@
 This is my GitHub organization for managing my DnD repositories.
 You can expect to find the following:
- - Angular Frontend for a DnD assistant website
- - ExpressJS Backend for a DnD assistant website
+ - Blazor project for a DnD Web Application
 
 In the future I may also add:
- - Flutter App for better mobile access
- - Python Project for a bot on my DnD Discord Server
+ - Flutter App a mobile app for DnD
+ - Python Project for a Discord bot on my DnD Discord Server
